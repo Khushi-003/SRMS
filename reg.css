@@ -1,0 +1,45 @@
+body{
+    background-image: url("https://freerangestock.com/sample/52651/wavy-turquoise-background-means-artistic-design-or-digital-art-.jpg");
+    background-size: cover;
+}
+h1 {
+    text-align: center;
+}
+.two {
+    margin-left: 28rem;
+    height: 40rem;
+    padding: 2rem;
+    width: 40rem;
+    background-color: rgba(250, 249, 246, 0.5);
+    border-radius: 0.5em;
+    font-size: 1.5rem;
+    box-shadow: rgb(204, 219, 232) 3px 3px 6px 0px inset, rgba(255, 255, 255, 0.5) -3px -3px 6px 1px inset;
+}
+input {
+    background-color: #fff;
+    border: none;
+	outline:0;
+    margin-left: 1rem;
+    margin-bottom: 1rem;
+	height: 2rem;;
+	width: 30rem;
+    text-align: center;
+    font-size: larger;
+    color: black;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+button {
+    background-color: #09009B;
+    margin-left: 5rem;
+    color: white;
+    border: none;
+    width: 8rem;
+    height: 2rem;
+    font-size: 1rem;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    
+}
+.btn-warning {
+    background-color: #FFA400;
+
+}
